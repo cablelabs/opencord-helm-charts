@@ -26,4 +26,4 @@ maintainers:
   - name: "Open Networking Foundation"
     email: "info@opennetworking.org"
     url: "https://www.opennetworking.org"
-appVersion: "3.0.21"
+appVersion: "3.0.21-alpine"
