@@ -23,6 +23,6 @@ defaults:
 images:
   radius:
     registry: ""
-    repository: "code.cablelabs.com:4567/edge-compute/voltha/voltha-changes/freeradius-server"
+    repository: "freeradius/freeradius-server"
     tag: "{{ .Chart.AppVersion }}"
     pullPolicy: "{{ .Values.defaults.image_pullPolicy }}"
